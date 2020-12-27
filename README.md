@@ -1,9 +1,5 @@
 # Using Node.js with MySQL – CRUD | XAMPP / PhpMyAdmin
 
-This was created as part of YouTube Video. Links below
-
-![GitHub Logo](https://raddy.co.uk/wp-content/uploads/2020/10/Using-Node.js-with-MySQL-CRUD-XAMPP-PhpMyAdmin_compressed.jpg)
-
 ## Installation
 To run this project, install it locally using npm:
 
@@ -13,8 +9,6 @@ $ npm start
 ```
 
 ### YouTube Video & Article
-
-[Node.js News Website](https://youtu.be/EkQc-8uzxIA)
 
 [Read Article](https://raddy.co.uk/blog/build-news-website-with-node-js-express-ejs-wp-rest-api/)
 
